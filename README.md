@@ -1,6 +1,8 @@
 
 # PaperCheck
 
+[![Actions Status](https://github.com/emareg/paper-checker/workflows/Check/badge.svg)](https://github.com/emareg/paper-checker)
+
 PaperCheck is a python script that searches for simple grammar mistakes in scientific english texts. Unlike other grammar checkers it is free and tailored for scientific texts, such as papers. It might find words that pass a spell check but are most likely not intended in a scientific context, such as "angel" vs. "angle".
 
 
